@@ -1,0 +1,20 @@
+body{
+background-color:#000000;
+}
+
+h1{
+font-size: 99px;
+font-weight: bolder;
+color: #ffffff;
+font-family: Merriweather;
+text-align: center;
+}
+h2{
+font-size: 99px;
+font-weight: bold;
+color: #ffffff;
+text-align: center;
+}
+.vaccent{
+color: #D38CFF;
+}
