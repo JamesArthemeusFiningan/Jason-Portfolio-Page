@@ -37,7 +37,10 @@ display: flex;
 justify-content: center;
 Align-items: center;
 }
-html {height: 100%}
+html {
+    height: 100%;
+    scroll-behavior: smooth;
+}
 body {height: 100%; margin: 0; font-family: Arial, Helvetica, sans-serif;}
 .center {
 margin: auto;
